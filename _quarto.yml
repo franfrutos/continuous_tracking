@@ -1,0 +1,6 @@
+project:
+  type: default
+  output-dir: output/manuscript
+  render:
+    - continuous_tracking_manuscript.qmd
+    - continuous_tracking_supplementary.qmd

@@ -1,0 +1,42 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Rplots.pdf
+.Rdata
+.httr-oauth
+.DS_Store
+._*
+__pycache__/
+.quarto
+**/*.quarto_ipynb
+/continuous_tracking_manuscript_files/
+/continuous_tracking_supplementary_files/
+/*.tex
+/*.log
+/.claude/
+
+/.quarto/
+
+# Only the final manuscript and supplementary material are kept
+/output/manuscript/*
+!/output/manuscript/continuous_tracking_manuscript.pdf
+!/output/manuscript/continuous_tracking_supplementary.pdf
+
+# Compiled models (cmdstanr compiles them again if they are missing)
+/models/*.exe
+/output/models/moment_matching/exe/
+
+# Logs of the model fits and cells of moment matching, already in the summaries
+/output/models/run_*
+/output/models/moment_matching/logs/
+/output/models/moment_matching/parts/
+
+# Material that is not part of the public package
+/_archive/
+
+# Editing copy of the manuscript, with inline results written as values
+/continuous_tracking_manuscript_edit*.qmd
+
+# Cover letters, journal versions and other editorial documents
+/editorial/

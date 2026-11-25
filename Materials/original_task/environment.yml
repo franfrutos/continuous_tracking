@@ -1,0 +1,12 @@
+name: mib-psychopy
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9.23
+  - psychopy=2022.2.5
+  - pyglet=1.5.27
+  - numpy<1.24
+  - matplotlib
+  - pyserial
+  - pip
+  - setuptools<81

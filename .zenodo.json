@@ -1,0 +1,38 @@
+{
+  "upload_type": "dataset",
+  "title": "Continuous Tracking of Subjective Visibility: Data, code, and materials",
+  "description": "<p>Data, analysis code, results, and task materials for the manuscript \"Continuous Tracking of Subjective Visibility\". The repository includes the sample-level data of the 18 participants, the PsychoPy task (the program that collected the data and its current version), the Stan models, the scripts used for all analyses, the cached results and figures, and the Quarto source files of the manuscript and its supplementary material. See README.md for the structure of the repository and how to reproduce the analyses.</p>",
+  "creators": [
+    {
+      "name": "Machuca, María",
+      "affiliation": "University of Granada",
+      "orcid": "0009-0007-0552-1429"
+    },
+    {
+      "name": "Sanabria, Daniel",
+      "affiliation": "University of Granada",
+      "orcid": "0000-0002-4164-7607"
+    },
+    {
+      "name": "Garre-Frutos, Francisco",
+      "affiliation": "Autonomous University of Madrid",
+      "orcid": "0000-0001-9810-186X"
+    }
+  ],
+  "keywords": [
+    "motion-induced blindness",
+    "visual awareness",
+    "subjective visibility",
+    "temporal experience tracing",
+    "continuous reports"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://osf.io/r8h4q",
+      "relation": "isDocumentedBy"
+    }
+  ]
+}
