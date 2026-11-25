@@ -55,4 +55,4 @@ Data, code, and materials are released under a [CC BY 4.0](LICENSE.md) license. 
 
 - Preregistration: <https://osf.io/r8h4q>
 - Preprint: [to be added]
-- Zenodo repository: [to be added]
+- Zenodo repository: <https://doi.org/10.5281/zenodo.24543404>
