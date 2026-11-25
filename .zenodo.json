@@ -4,7 +4,7 @@
   "description": "<p>Data, analysis code, results, and task materials for the manuscript \"Continuous Tracking of Subjective Visibility\". The repository includes the sample-level data of the 18 participants, the PsychoPy task (the program that collected the data and its current version), the Stan models, the scripts used for all analyses, the cached results and figures, and the Quarto source files of the manuscript and its supplementary material. See README.md for the structure of the repository and how to reproduce the analyses.</p>",
   "creators": [
     {
-      "name": "Machuca, María",
+      "name": "López-Machuca, María",
       "affiliation": "University of Granada",
       "orcid": "0009-0007-0552-1429"
     },

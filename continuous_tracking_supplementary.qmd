@@ -3,7 +3,7 @@ title: "Continuous Tracking of Subjective Visibility"
 shorttitle: "SUPPLEMENTARY MATERIAL"
 supplementary-title-prefix: "Supplementary Material to accompany"
 author:
-  - name: María Machuca
+  - name: María López-Machuca
     orcid: 0009-0007-0552-1429
     affiliations:
       - id: ugr

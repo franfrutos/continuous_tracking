@@ -2,7 +2,7 @@
 title: "Continuous Tracking of Subjective Visibility"
 shorttitle: "Continuous Tracking of Subjective Visibility"
 author:
-  - name: María Machuca
+  - name: María López-Machuca
     orcid: 0009-0007-0552-1429
     roles:
       - conceptualization: equal
